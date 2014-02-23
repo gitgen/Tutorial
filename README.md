@@ -1,2 +1,2 @@
-Python-Tutorial
+Tutorial
 =============
